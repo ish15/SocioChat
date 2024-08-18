@@ -1,10 +1,17 @@
-To reorganize the README for your app "SocioChat," here's a revised structure:
-
----
 
 # SocioChat
 
-A WhatsApp clone built using the MERN stack, featuring real-time messaging, online statuses, typing indicators, notifications, and more with Socket.io.
+![Screenshot (138)](https://github.com/user-attachments/assets/71d66132-052f-4fe3-b449-1b0aaef2a44d)
+
+![Screenshot (139)](https://github.com/user-attachments/assets/0e33b3ec-2d2e-464f-97f3-1f423f1980a9)
+
+![Screenshot (137)](https://github.com/user-attachments/assets/df59233b-d0b6-40be-bcab-eebb20ba02dd)
+
+![Screenshot (140)](https://github.com/user-attachments/assets/0e155fbd-53a0-40ce-adda-2a7b861bc076)
+
+
+
+A chatting application built using the MERN stack, featuring real-time messaging, online statuses, typing indicators, notifications, and more with Socket.io.
 
 # ✨ Features
 - **User Authentication:** Secure login and registration.
@@ -99,5 +106,3 @@ NODE_ENV=production
 ```
 
 ---
-
-This format provides a clear and organized README for SocioChat, making it easy for others to understand and set up your project.
